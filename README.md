@@ -1,3 +1,4 @@
-# My Awesome Book
+参考：
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1、[零基础学python语言（北京理工大学）](https://www.bilibili.com/video/av14634659/?p=1)
+
